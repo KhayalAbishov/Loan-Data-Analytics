@@ -10,11 +10,16 @@ behavior.
 #### Part 3 - Insight Finding
 
 
-##                     Insight Finding
+
+
+
+
+
+## Insights
 ### 1. Customer Segmentations and Their Profiles:
- - 35-40 Age Group: This group tends to take higher loan amounts, often opting for longer loan periods. They show a strong preference for the "İstehlak kredit (Cash)" product.
- - 18-25 Age Group: Typically takes smaller loans with shorter durations. They are also inclined towards the "İstehlak kredit (Cash)" product. 
- - 45-50 Age Group: This group maintains a steady demand for loans, with moderate loan amounts and periods.
+   - 35-40 Age Group: This group tends to take higher loan amounts, often opting for longer loan periods. They show a strong preference for the "İstehlak kredit (Cash)" product.
+   - 18-25 Age Group: Typically takes smaller loans with shorter durations. They are also inclined towards the "İstehlak kredit (Cash)" product. 
+   - 45-50 Age Group: This group maintains a steady demand for loans, with moderate loan amounts and periods.
    
 ### 2. Top 3 Customer Segments to Target for Increased Sales:
  - 30-40 Age Group (İstehlak kredit - Cash): Focus on this segment with personalized loan offers and longer repayment terms.
